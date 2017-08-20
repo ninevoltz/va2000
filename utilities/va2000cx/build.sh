@@ -4,5 +4,6 @@ export PATH=$CROSSPATH/bin:$GCCLIBPATH:$PATH
 export GCC_EXEC_PREFIX=m68k-amigaos
 export LIBS=$CROSSPATH/lib
 
-m68k-amigaos-as boot.s
-m68k-amigaos-objdump -D a.out
+m68k-amigaos-gcc -O2 -o va2000cx -noixemul -I$CROSSPATH/m68k-amigaos/sys-include -I$CROSSPATH/os-include -L$LIBS -L$LIBS/gcc-lib/m68k-amigaos/2.95.3/ -L$CROSSPATH -L$LIBS/libnix va2000cx.c -lm
+
+# -fomit-frame-pointer -fbaserel
