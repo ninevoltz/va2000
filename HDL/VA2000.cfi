@@ -2,10 +2,10 @@
 # Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 SOFTWARE_VERSION P.20131013
-DATE            07/28/2017 - 13:29
-SOURCE          C:\Users\john.voltz\Documents\svn-working\FPGA\VA2000-gfx\HDL\VA2000.mcs
+DATE             8/20/2017 - 15:44
+SOURCE          /home/john/Documents/va2000-project/trunk/HDL/VA2000.mcs
 DEVICE          8192K
 DATA_WIDTH      1
 FILL_DATA       0xFF
-SIGNATURE       0x75BD6E26
-START_ADDRESS   0x00000000 END_ADDRESS 0x000AB1F3 DIRECTION_UP   "C:/Users/john.voltz/Documents/svn-working/FPGA/VA2000-gfx/HDL/work/z2.bit" 6slx25ftg256
+SIGNATURE       0x76946D0F
+START_ADDRESS   0x00000000 END_ADDRESS 0x0009E665 DIRECTION_UP   "/home/john/Documents/va2000-project/trunk/HDL/work/z2.bit" 6slx25ftg256

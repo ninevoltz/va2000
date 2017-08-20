@@ -1,9 +1,9 @@
 PROMGEN: Xilinx Prom Generator P.20131013
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
-promgen -w -p mcs -c FF -o C:\Users\john.voltz\Documents\svn-working\FPGA\VA2000-gfx\HDL//VA2000 -s 8192 -u 0000 C:/Users/john.voltz/Documents/svn-working/FPGA/VA2000-gfx/HDL/work/z2.bit -spi 
+promgen -w -p mcs -c FF -o /home/john/Documents/va2000-project/trunk/HDL//VA2000 -s 8192 -u 0000 /home/john/Documents/va2000-project/trunk/HDL/work/z2.bit -spi 
 
-PROM C:\Users\john.voltz\Documents\svn-working\FPGA\VA2000-gfx\HDL\VA2000.prm map: Fri Jul 28 13:29:24 2017
+PROM /home/john/Documents/va2000-project/trunk/HDL/VA2000.prm map: Sun Aug 20 15:44:23 2017
 
 Calculating PROM checksum with fill value ff
 
@@ -11,7 +11,7 @@ Format        Mcs86 (32-bit)
 Size          8192K
 PROM start    0000:0000
 PROM end      007f:ffff
-PROM checksum 75bd6e26
+PROM checksum 76946d0f
 
         Addr1        Addr2                     Date File(s)
-    0000:0000    000a:b1f3     Jul 28 13:27:20 2017 C:/Users/john.voltz/Documents/svn-working/FPGA/VA2000-gfx/HDL/work/z2.bit
+    0000:0000    0009:e665     Aug 20 14:53:03 2017 /home/john/Documents/va2000-project/trunk/HDL/work/z2.bit

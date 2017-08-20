@@ -2,7 +2,7 @@
 // Company: MNT Media and Technology UG
 // Engineer: Lukas F. Hartmann (@mntmn)
 // Create Date:    21:49:19 03/22/2016 
-// Design Name:    Amiga 2000/3000/4000 Graphics Card (VA2000) Revision 1.5
+// Design Name:    Amiga 2000/3000/4000 Graphics Card (VA2000) Revision 1.7
 // Module Name:    z2
 // Target Devices: 
 

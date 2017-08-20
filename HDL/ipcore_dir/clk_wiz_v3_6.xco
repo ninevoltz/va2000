@@ -1,7 +1,7 @@
 ##############################################################
 #
 # Xilinx Core Generator version 14.7
-# Date: Fri Jul 28 16:15:05 2017
+# Date: Sun Aug 20 18:36:20 2017
 #
 ##############################################################
 #
@@ -79,7 +79,7 @@ CSET clkout2_requested_phase=0.000
 CSET clkout2_used=true
 CSET clkout3_drives=No_buffer
 CSET clkout3_requested_duty_cycle=50.000
-CSET clkout3_requested_out_freq=75.000
+CSET clkout3_requested_out_freq=60.000
 CSET clkout3_requested_phase=0.000
 CSET clkout3_used=true
 CSET clkout4_drives=No_buffer
@@ -206,7 +206,7 @@ CSET pll_clkout0_phase=0.000
 CSET pll_clkout1_divide=16
 CSET pll_clkout1_duty_cycle=0.500
 CSET pll_clkout1_phase=0.000
-CSET pll_clkout2_divide=11
+CSET pll_clkout2_divide=13
 CSET pll_clkout2_duty_cycle=0.500
 CSET pll_clkout2_phase=0.000
 CSET pll_clkout3_divide=20
@@ -266,4 +266,4 @@ CSET use_status=false
 MISC pkg_timestamp=2012-05-10T12:44:55Z
 # END Extra information
 GENERATE
-# CRC: f712d979
+# CRC: eda31291
