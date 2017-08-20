@@ -1,0 +1,20 @@
+SD0:
+   Device = mntsd.device
+   Unit = 0
+   Flags = 1
+   Surfaces = 1
+   BlocksPerTrack = 1024
+   Reserved = 2
+   Interleave = 0
+   LowCyl = 2
+   HighCyl = 512
+   Buffers = 32
+   GlobVec = -1
+   BufMemType = 1
+   Mask = 0xFFFFFFFE
+   MaxTransfer = 0x7FFFFFFF
+   StackSize = 8192
+   Mount = 1
+#
+
+

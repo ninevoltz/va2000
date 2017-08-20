@@ -1,0 +1,20 @@
+; recommended PAL mode
+va2000cx mode 640 512
+va2000cx hsize 320
+va2000cx vsize 297
+va2000cx hoffset 65
+va2000cx voffset 40
+
+; recommended NTSC mode
+va2000cx mode 640 480
+va2000cx hsize 320
+va2000cx vsize 279
+va2000cx hoffset 65
+va2000cx voffset 41
+
+; full overscan mode (experimental)
+va2000cx mode 800 600
+va2000cx hsize 370
+va2000cx vsize 307
+va2000cx hoffset 21
+va2000cx voffset 25

@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator P.20131013
+# Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.20131013
+DATE            07/28/2017 - 13:29
+SOURCE          C:\Users\john.voltz\Documents\svn-working\FPGA\VA2000-gfx\HDL\VA2000.mcs
+DEVICE          8192K
+DATA_WIDTH      1
+FILL_DATA       0xFF
+SIGNATURE       0x75BD6E26
+START_ADDRESS   0x00000000 END_ADDRESS 0x000AB1F3 DIRECTION_UP   "C:/Users/john.voltz/Documents/svn-working/FPGA/VA2000-gfx/HDL/work/z2.bit" 6slx25ftg256
